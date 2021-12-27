@@ -45,7 +45,7 @@
         <mvn-source.version>3.0.1</mvn-source.version>
         <wiremock.version>2.6.0</wiremock.version>
         <mockito.version>1.10.19</mockito.version>
-        <jackson.version>2.13.0</jackson.version>
+        <jackson.version>2.13.1</jackson.version>
         <jacoco.version>0.8.5</jacoco.version>
         <mvn-gpg.version>1.6</mvn-gpg.version>
         <slf4j.version>1.7.25</slf4j.version>
