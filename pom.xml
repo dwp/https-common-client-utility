@@ -39,7 +39,7 @@
         <dwp.securestrings.version>2.0.0-8c44034d</dwp.securestrings.version>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <apache.httpclient.version>5.4.2</apache.httpclient.version>
+        <apache.httpclient.version>5.4.3</apache.httpclient.version>
         <maven.compiler.version>3.13.0</maven.compiler.version>
         <mvn-javadoc.version>3.11.2</mvn-javadoc.version>
         <mvn-source.version>3.3.1</mvn-source.version>
